@@ -18,3 +18,4 @@ NHT-git tutorial at Freewheel.
 * [Git Immersion(*****)](http://gitimmersion.com/): Git Immersion is a guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
 * [Git - Tutorial(*****)](http://www.vogella.com/tutorials/Git/article.html): Git - Tutorial.
 * [Try Git(*****)](https://try.github.io/levels/1/challenges/1): Try Git.
+* [Git Workflow(*****)](https://mockupstogo.mybalsamiq.com/projects/diagrams/Git%20Workflow): Git Workflow
